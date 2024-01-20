@@ -1,6 +1,5 @@
-(once)=(start)>
->a=(end)a
->b=(end)b
-!=(start)>
->,=
-,=,!>
+>>>>a=(end)a
+>>>>b=(end)b
+>>=(start)>>>>
+(start),=>
+,=,>>>
