@@ -1,8 +1,7 @@
--1=-a
-a0=1a
-a1=1aa
-a=b
--=
-(start)1b=
-1b=0
-0b=b1
+0D=D1
+1D=0
+(start)0=
+-0=-
+d=(end)D
+(end)-=
+-=Dd-
